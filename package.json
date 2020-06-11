@@ -13,6 +13,7 @@
     "Robert Barnwell <robert@robertismy.name>",
     "Sahar Jafari <shr.jafari@gmail.com>"
   ],
+  "type" : "module",
   "license": "Apache-2.0",
   "scripts": {
     "automated-release": "release-it -VV --config ./release/.release-it.json",
@@ -66,6 +67,7 @@
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "memoizee": "^0.4.12",
+    "path" : "latest",
     "prop-types": "^15.7.2",
     "randombytes": "^2.1.0",
     "react": "^15.6.2",
